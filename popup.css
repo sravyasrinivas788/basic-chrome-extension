@@ -1,0 +1,29 @@
+body{
+  background-color: gray;
+}
+.total{
+  width:200px;
+  text-align: center;
+}
+.changecolor{
+  width: 100px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-radius: 3px;
+  cursor: pointer;
+
+
+}
+.displayedcolor{
+  display:inline-block ;
+   width:20px;
+   height: 20px;
+}
+.colorselect{
+  align-content: center;
+  width: 200px;
+  margin-top: 20px;
+
+}
+.displayedcolor{
+  margin-right: 2px;
+}

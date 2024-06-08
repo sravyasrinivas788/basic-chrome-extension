@@ -1,0 +1,26 @@
+{
+  "name":"COLOR-picker",
+  "description":"",
+  "version":"1.0",
+  "manifest_version":3,
+  "background":{
+    "service_worker":"extension.js"
+
+  },
+  "permissions":[
+    "storage",
+    "scripting",
+    "activeTab"
+
+  ],
+  
+  "action":{
+    "default_popup":"popup.html"
+  },
+  "icons":{
+    "48":"/icons/Technology.png"
+
+  }
+
+  
+}
